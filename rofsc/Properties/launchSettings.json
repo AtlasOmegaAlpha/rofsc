@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "rofsc": {
+      "commandName": "Project",
+      "commandLineArgs": "rofs output.rofs"
+    }
+  }
+}
